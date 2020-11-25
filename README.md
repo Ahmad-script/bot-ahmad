@@ -7,7 +7,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 
-## CARA INSTALL
+## CARA INSTAL
 # TERMUX
 ```bash
 > download termux
