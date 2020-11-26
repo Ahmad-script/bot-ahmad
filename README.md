@@ -18,7 +18,6 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > apt update && apt upgrade
 > git clone https://github.com/Ahmad-script/bot-ahmad
 > cd bot-ahmad
-> npm i
 > bash install.sh
 > node index.js
 ```
